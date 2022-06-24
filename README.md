@@ -20,3 +20,4 @@ Clone this project
 git clone https://github.com/jmugure95/Intro_to_Pandas.git
 ```
 
+Copyright &copy; Julia Wakaba 2022
